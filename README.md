@@ -19,7 +19,7 @@ To run this project on your local machine, follow these steps:
 - Socket.io
 - Vanilla JavaScript
 
-##Author
+**##Author**
 This project is done By Mugilan RS
 
 
